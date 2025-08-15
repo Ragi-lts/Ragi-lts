@@ -7,4 +7,4 @@
 - フレームワーク＆ツール：Vue.js, Laravel, Flutter
 
 ## 連絡先
-- Twitter：[@Yuji1394447](https://x.com/Yuji1394447)
+- Twitter：[@Yuu_16338103](https://x.com/Yuu_16338103)
